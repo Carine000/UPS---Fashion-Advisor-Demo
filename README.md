@@ -3,5 +3,5 @@ Demo GUI of a fashion advisor application and description of state of the art ch
 
 
 <p align="center">
-    <img src=""><br/>
+    <img src="poster.png"><br/>
 </p>
