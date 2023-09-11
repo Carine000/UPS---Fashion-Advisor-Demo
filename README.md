@@ -3,6 +3,5 @@ Demo GUI of a fashion advisor application and description of state of the art ch
 
 
 <p align="center">
-    <img src="poster.pdf"><br/>
-    <em>The highway-v0 environment.</em>
+    <img src=""><br/>
 </p>
